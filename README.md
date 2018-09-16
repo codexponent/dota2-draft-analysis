@@ -1,2 +1,2 @@
-# dota2-match
-Stats of Dota 2 Matches
+# dota2-draft-analysis
+Dota 2 Draft Analysis of Competitive Matches
