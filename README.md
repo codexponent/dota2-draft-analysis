@@ -1,4 +1,6 @@
 
+### <p align="center">**Draft Analysis of Dota 2**</p>
+----------
 
 ```python
 # # Importing Packages
@@ -8625,3 +8627,26 @@ winning_combination_2.shape[0] < (118 * 118)
 ```python
 
 ```
+
+
+##### Notebook Created by: [Sulabh Shrestha](https://github.com/codexponent/)
+###### - Connect with me on [Linkedin](https://www.linkedin.com/in/sulabhshrestha/) & [Twitter](http://www.twitter.com/codexponent)
+----------
+
+## Contribute
+----------
+
+- Issue Tracker: https://github.com/codexponent/dota2-draft-analysis/issues
+- Source Code: https://github.com/codexponent/dota2-draft-analysis
+- Contributors: https://github.com/codexponent/dota2-draft-analysis/contributors.txt
+
+## Support
+-------
+
+If you are having issues, please let us know.
+I have a mailing list located at: tsulabh4@gmail.com
+
+## Copyright and License
+-------
+
+Copyright 2018 Codexponent. Code released under the [MIT]license.
