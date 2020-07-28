@@ -1,5 +1,6 @@
 
-### <p align="center">**Draft Analysis of Dota 2**</p>
+### <p align="center">**Draft Analysis of Dota 2**</p><br />
+[![HitCount](http://hits.dwyl.com/codexponent/dota2-draft-analysis.svg)]
 ----------
 
 ```python
